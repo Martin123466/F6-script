@@ -24,7 +24,7 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 ]]Tab:AddButton({
 	Name = "🔑اكتب المفتاح🔑",
 	Callback = function()
-      		print("button pressed")loadstring(game:HttpGet('https://pastebin.com/raw/fFVN0sFX'))()
+      		print("button pressed")loadstring(game:HttpGet("https://pastebin.com/raw/n4ediWMn"))()
   	end    
 })
 
